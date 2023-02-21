@@ -8,5 +8,7 @@ React testlerini çalıştırma komutu
 React projeyi build alma komutu
 
 
-Node.js versiyonu: v18.13.0
-Dashboard React Versiyonu: 18.2.0
+Node.js versiyonu: 
+### `v18.13.0`
+Dashboard React Versiyonu: 
+### `18.2.0`
